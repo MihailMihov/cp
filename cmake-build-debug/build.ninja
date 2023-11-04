@@ -133,6 +133,24 @@ build CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o: CXX_COMPILER__cf_unscan
   OBJECT_DIR = CMakeFiles/cf.dir
   OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/g
 
+build CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2022/threediv.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2022
+
+build CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2021/perm.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2021
+
+build CMakeFiles/cf.dir/noi/1/2021/perm2.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2021/perm2.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/noi/1/2021/perm2.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2021
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cf
@@ -141,7 +159,7 @@ build CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o: CXX_COMPILER__cf_unscan
 #############################################
 # Link the executable cf
 
-build cf: CXX_EXECUTABLE_LINKER__cf_Debug CMakeFiles/cf.dir/cf/contests/cf907-div2/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf907-div2/b/main.cpp.o CMakeFiles/cf.dir/cf/archive/1879b/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/oil.cpp.o CMakeFiles/cf.dir/noi/1/2022/sequence.cpp.o CMakeFiles/cf.dir/noi/1/2021/tiling.cpp.o CMakeFiles/cf.dir/template.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/f/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o
+build cf: CXX_EXECUTABLE_LINKER__cf_Debug CMakeFiles/cf.dir/cf/contests/cf907-div2/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf907-div2/b/main.cpp.o CMakeFiles/cf.dir/cf/archive/1879b/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/oil.cpp.o CMakeFiles/cf.dir/noi/1/2022/sequence.cpp.o CMakeFiles/cf.dir/noi/1/2021/tiling.cpp.o CMakeFiles/cf.dir/template.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/f/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o CMakeFiles/cf.dir/noi/1/2021/perm2.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cf.dir
   POST_BUILD = :

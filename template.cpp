@@ -9,10 +9,11 @@
 
 void solve() {
 
-    return;
 }
 
 int main() {
+    std::ios::sync_with_stdio(false);
+
     int t;
     std::cin >> t;
 

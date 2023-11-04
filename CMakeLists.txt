@@ -16,4 +16,6 @@ add_executable(cf cf/contests/cf907-div2/a/main.cpp
         cf/contests/ecf157/d/main.cpp
         cf/contests/ecf157/e/main.cpp
         cf/contests/ecf157/f/main.cpp
-        cf/contests/ecf157/g/main.cpp)
+        cf/contests/ecf157/g/main.cpp
+        noi/1/2022/threediv.cpp
+        noi/1/2021/perm.cpp)
