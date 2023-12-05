@@ -145,11 +145,155 @@ build CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o: CXX_COMPILER__cf_unscanned_Debug 
   OBJECT_DIR = CMakeFiles/cf.dir
   OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2021
 
-build CMakeFiles/cf.dir/noi/1/2021/perm2.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2021/perm2.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/noi/1/2021/perm2.cpp.o.d
+build CMakeFiles/cf.dir/noi/1/2020/airline.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2020/airline.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/noi/1/2020/airline.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2021
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2020
+
+build CMakeFiles/cf.dir/cf/contests/cf908-div2/a/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/a/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/a/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/a
+
+build CMakeFiles/cf.dir/cf/contests/cf908-div2/b/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/b/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/b/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/b
+
+build CMakeFiles/cf.dir/cf/contests/cf908-div2/c/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/c/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/c/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/c
+
+build CMakeFiles/cf.dir/cf/contests/cf908-div2/d/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/d/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/d/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/d
+
+build CMakeFiles/cf.dir/cf/contests/cf908-div2/e/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/e/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/e/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/e
+
+build CMakeFiles/cf.dir/cf/contests/cf909-div3/a/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/a/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/a/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/a
+
+build CMakeFiles/cf.dir/cf/contests/cf909-div3/b/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/b/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/b/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/b
+
+build CMakeFiles/cf.dir/cf/contests/cf909-div3/c/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/c/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/c/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/c
+
+build CMakeFiles/cf.dir/cf/contests/cf909-div3/d/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/d/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/d/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/d
+
+build CMakeFiles/cf.dir/cf/contests/cf909-div3/e/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/e/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/e/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/e
+
+build CMakeFiles/cf.dir/cf/contests/cf909-div3/f/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/f/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/f/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/f
+
+build CMakeFiles/cf.dir/cf/contests/cf909-div3/g/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/g/main.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/g/main.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/g
+
+build CMakeFiles/cf.dir/book/max_subarray_sum.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/book/max_subarray_sum.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/book/max_subarray_sum.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/book
+
+build CMakeFiles/cf.dir/cf/contests/ecf159/a.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/a.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/a.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+
+build CMakeFiles/cf.dir/cf/contests/ecf159/b.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/b.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/b.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+
+build CMakeFiles/cf.dir/cf/contests/ecf159/c.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/c.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/c.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+
+build CMakeFiles/cf.dir/cf/contests/ecf159/d.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/d.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/d.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+
+build CMakeFiles/cf.dir/cses/1068.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1068.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cses/1068.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+
+build CMakeFiles/cf.dir/cses/1083.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1083.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cses/1083.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+
+build CMakeFiles/cf.dir/cses/1069.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1069.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cses/1069.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+
+build CMakeFiles/cf.dir/cses/1094.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1094.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cses/1094.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+
+build CMakeFiles/cf.dir/cses/1070.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1070.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cses/1070.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+
+build CMakeFiles/cf.dir/cses/1071.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1071.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cses/1071.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+
+build CMakeFiles/cf.dir/cses/1072.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1072.cpp || cmake_object_order_depends_target_cf
+  DEP_FILE = CMakeFiles/cf.dir/cses/1072.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
 
 
 # =============================================================================
@@ -159,7 +303,7 @@ build CMakeFiles/cf.dir/noi/1/2021/perm2.cpp.o: CXX_COMPILER__cf_unscanned_Debug
 #############################################
 # Link the executable cf
 
-build cf: CXX_EXECUTABLE_LINKER__cf_Debug CMakeFiles/cf.dir/cf/contests/cf907-div2/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf907-div2/b/main.cpp.o CMakeFiles/cf.dir/cf/archive/1879b/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/oil.cpp.o CMakeFiles/cf.dir/noi/1/2022/sequence.cpp.o CMakeFiles/cf.dir/noi/1/2021/tiling.cpp.o CMakeFiles/cf.dir/template.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/f/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o CMakeFiles/cf.dir/noi/1/2021/perm2.cpp.o
+build cf: CXX_EXECUTABLE_LINKER__cf_Debug CMakeFiles/cf.dir/cf/contests/cf907-div2/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf907-div2/b/main.cpp.o CMakeFiles/cf.dir/cf/archive/1879b/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/oil.cpp.o CMakeFiles/cf.dir/noi/1/2022/sequence.cpp.o CMakeFiles/cf.dir/noi/1/2021/tiling.cpp.o CMakeFiles/cf.dir/template.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/f/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o CMakeFiles/cf.dir/noi/1/2020/airline.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/f/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/g/main.cpp.o CMakeFiles/cf.dir/book/max_subarray_sum.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/a.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/b.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/c.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/d.cpp.o CMakeFiles/cf.dir/cses/1068.cpp.o CMakeFiles/cf.dir/cses/1083.cpp.o CMakeFiles/cf.dir/cses/1069.cpp.o CMakeFiles/cf.dir/cses/1094.cpp.o CMakeFiles/cf.dir/cses/1070.cpp.o CMakeFiles/cf.dir/cses/1071.cpp.o CMakeFiles/cf.dir/cses/1072.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cf.dir
   POST_BUILD = :
@@ -172,7 +316,7 @@ build cf: CXX_EXECUTABLE_LINKER__cf_Debug CMakeFiles/cf.dir/cf/contests/cf907-di
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -183,7 +327,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/var/home/mihail/CLionProjects/cp -B/var/home/mihail/CLionProjects/cp/cmake-build-debug
+  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/var/home/mihail/CLionProjects/cp -B/var/home/mihail/CLionProjects/cp/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -210,14 +354,14 @@ build all: phony cf
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/fdd661e9d4e3b_CLion-233.11361.11/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake: phony
+build /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake: phony
 
 
 #############################################

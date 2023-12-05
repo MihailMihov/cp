@@ -10,7 +10,14 @@
 #include <numeric>
 
 void solve() {
+    int n;
+    std::cin >> n;
 
+    if(n % 3 == 0) {
+        std::cout << "Second\n";
+    } else {
+        std::cout << "First\n";
+    }
 }
 
 int main() {

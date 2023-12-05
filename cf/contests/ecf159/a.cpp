@@ -10,7 +10,15 @@
 #include <numeric>
 
 void solve() {
+    int n;
+    std::string s;
+    std::cin >> n >> s;
 
+    if(s.find('0') != std::string::npos) {
+        std::cout << "YES\n";
+        return;
+    }
+    std::cout << "NO\n";
 }
 
 int main() {
