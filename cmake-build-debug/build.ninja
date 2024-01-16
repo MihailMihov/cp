@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: cf
+# Project: codeforces
 # Configurations: Debug
 # =============================================================================
 
@@ -41,282 +41,438 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /var/home/mihail/CLionProjects/cp/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target cf
+# Object build statements for EXECUTABLE target codeforces
 
 
 #############################################
-# Order-only phony target for cf
+# Order-only phony target for codeforces
 
-build cmake_object_order_depends_target_cf: phony || CMakeFiles/cf.dir
+build cmake_object_order_depends_target_codeforces: phony || CMakeFiles/codeforces.dir
 
-build CMakeFiles/cf.dir/cf/contests/cf907-div2/a/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf907-div2/a/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf907-div2/a/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/a/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf907-div2/a/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/a/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf907-div2/a
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/a
 
-build CMakeFiles/cf.dir/cf/contests/cf907-div2/b/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf907-div2/b/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf907-div2/b/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/b/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf907-div2/b/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/b/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf907-div2/b
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/b
 
-build CMakeFiles/cf.dir/cf/archive/1879b/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/archive/1879b/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/archive/1879b/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/archive/1879b/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/archive/1879b/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/archive/1879b/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/archive/1879b
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/archive/1879b
 
-build CMakeFiles/cf.dir/noi/1/2022/oil.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2022/oil.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/noi/1/2022/oil.cpp.o.d
+build CMakeFiles/codeforces.dir/noi/1/2022/oil.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2022/oil.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2022/oil.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2022
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2022
 
-build CMakeFiles/cf.dir/noi/1/2022/sequence.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2022/sequence.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/noi/1/2022/sequence.cpp.o.d
+build CMakeFiles/codeforces.dir/noi/1/2022/sequence.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2022/sequence.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2022/sequence.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2022
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2022
 
-build CMakeFiles/cf.dir/noi/1/2021/tiling.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2021/tiling.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/noi/1/2021/tiling.cpp.o.d
+build CMakeFiles/codeforces.dir/noi/1/2021/tiling.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2021/tiling.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2021/tiling.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2021
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2021
 
-build CMakeFiles/cf.dir/template.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/template.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/template.cpp.o.d
+build CMakeFiles/codeforces.dir/template.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/template.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/template.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir
 
-build CMakeFiles/cf.dir/cf/contests/ecf157/a/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf157/a/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf157/a/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf157/a/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf157/a/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/a/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/a
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/a
 
-build CMakeFiles/cf.dir/cf/contests/ecf157/b/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf157/b/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf157/b/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf157/b/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf157/b/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/b/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/b
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/b
 
-build CMakeFiles/cf.dir/cf/contests/ecf157/c/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf157/c/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf157/c/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf157/c/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf157/c/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/c/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/c
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/c
 
-build CMakeFiles/cf.dir/cf/contests/ecf157/d/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf157/d/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf157/d/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf157/d/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf157/d/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/d/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/d
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/d
 
-build CMakeFiles/cf.dir/cf/contests/ecf157/e/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf157/e/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf157/e/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf157/e/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf157/e/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/e/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/e
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/e
 
-build CMakeFiles/cf.dir/cf/contests/ecf157/f/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf157/f/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf157/f/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf157/f/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf157/f/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/f/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/f
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/f
 
-build CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf157/g/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf157/g/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf157/g/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/g/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf157/g
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf157/g
 
-build CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2022/threediv.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o.d
+build CMakeFiles/codeforces.dir/noi/1/2022/threediv.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2022/threediv.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2022/threediv.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2022
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2022
 
-build CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2021/perm.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o.d
+build CMakeFiles/codeforces.dir/noi/1/2021/perm.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2021/perm.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2021/perm.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2021
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2021
 
-build CMakeFiles/cf.dir/noi/1/2020/airline.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2020/airline.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/noi/1/2020/airline.cpp.o.d
+build CMakeFiles/codeforces.dir/noi/1/2020/airline.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2020/airline.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2020/airline.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/noi/1/2020
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2020
 
-build CMakeFiles/cf.dir/cf/contests/cf908-div2/a/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/a/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/a/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/a/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf908-div2/a/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/a/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/a
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/a
 
-build CMakeFiles/cf.dir/cf/contests/cf908-div2/b/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/b/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/b/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/b/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf908-div2/b/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/b/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/b
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/b
 
-build CMakeFiles/cf.dir/cf/contests/cf908-div2/c/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/c/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/c/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/c/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf908-div2/c/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/c/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/c
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/c
 
-build CMakeFiles/cf.dir/cf/contests/cf908-div2/d/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/d/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/d/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/d/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf908-div2/d/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/d/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/d
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/d
 
-build CMakeFiles/cf.dir/cf/contests/cf908-div2/e/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf908-div2/e/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf908-div2/e/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/e/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf908-div2/e/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/e/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf908-div2/e
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/e
 
-build CMakeFiles/cf.dir/cf/contests/cf909-div3/a/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/a/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/a/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/a/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf909-div3/a/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/a/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/a
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/a
 
-build CMakeFiles/cf.dir/cf/contests/cf909-div3/b/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/b/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/b/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/b/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf909-div3/b/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/b/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/b
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/b
 
-build CMakeFiles/cf.dir/cf/contests/cf909-div3/c/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/c/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/c/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/c/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf909-div3/c/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/c/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/c
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/c
 
-build CMakeFiles/cf.dir/cf/contests/cf909-div3/d/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/d/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/d/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/d/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf909-div3/d/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/d/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/d
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/d
 
-build CMakeFiles/cf.dir/cf/contests/cf909-div3/e/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/e/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/e/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/e/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf909-div3/e/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/e/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/e
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/e
 
-build CMakeFiles/cf.dir/cf/contests/cf909-div3/f/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/f/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/f/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/f/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf909-div3/f/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/f/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/f
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/f
 
-build CMakeFiles/cf.dir/cf/contests/cf909-div3/g/main.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/cf909-div3/g/main.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/cf909-div3/g/main.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/g/main.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf909-div3/g/main.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/g/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/cf909-div3/g
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/g
 
-build CMakeFiles/cf.dir/book/max_subarray_sum.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/book/max_subarray_sum.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/book/max_subarray_sum.cpp.o.d
+build CMakeFiles/codeforces.dir/book/max_subarray_sum.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/book/max_subarray_sum.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/book/max_subarray_sum.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/book
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/book
 
-build CMakeFiles/cf.dir/cf/contests/ecf159/a.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/a.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/a.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf159/a.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf159/a.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf159/a.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf159
 
-build CMakeFiles/cf.dir/cf/contests/ecf159/b.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/b.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/b.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf159/b.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf159/b.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf159/b.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf159
 
-build CMakeFiles/cf.dir/cf/contests/ecf159/c.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/c.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/c.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf159/c.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf159/c.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf159/c.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf159
 
-build CMakeFiles/cf.dir/cf/contests/ecf159/d.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cf/contests/ecf159/d.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cf/contests/ecf159/d.cpp.o.d
+build CMakeFiles/codeforces.dir/codeforces/contests/ecf159/d.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/ecf159/d.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/ecf159/d.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cf/contests/ecf159
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/ecf159
 
-build CMakeFiles/cf.dir/cses/1068.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1068.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cses/1068.cpp.o.d
+build CMakeFiles/codeforces.dir/cses/1068.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1068.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1068.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
 
-build CMakeFiles/cf.dir/cses/1083.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1083.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cses/1083.cpp.o.d
+build CMakeFiles/codeforces.dir/cses/1083.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1083.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1083.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
 
-build CMakeFiles/cf.dir/cses/1069.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1069.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cses/1069.cpp.o.d
+build CMakeFiles/codeforces.dir/cses/1069.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1069.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1069.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
 
-build CMakeFiles/cf.dir/cses/1094.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1094.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cses/1094.cpp.o.d
+build CMakeFiles/codeforces.dir/cses/1094.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1094.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1094.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
 
-build CMakeFiles/cf.dir/cses/1070.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1070.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cses/1070.cpp.o.d
+build CMakeFiles/codeforces.dir/cses/1070.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1070.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1070.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
 
-build CMakeFiles/cf.dir/cses/1071.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1071.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cses/1071.cpp.o.d
+build CMakeFiles/codeforces.dir/cses/1071.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1071.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1071.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
 
-build CMakeFiles/cf.dir/cses/1072.cpp.o: CXX_COMPILER__cf_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1072.cpp || cmake_object_order_depends_target_cf
-  DEP_FILE = CMakeFiles/cf.dir/cses/1072.cpp.o.d
+build CMakeFiles/codeforces.dir/cses/1072.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1072.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1072.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cf.dir
-  OBJECT_FILE_DIR = CMakeFiles/cf.dir/cses
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
+
+build CMakeFiles/codeforces.dir/cses/1754.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1754.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1754.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/a.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf913-div3/a.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/a.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/b.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf913-div3/b.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/b.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/c.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf913-div3/c.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/c.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/d.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf913-div3/d.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/d.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/g.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf913-div3/g.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/g.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/a.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf914-div2/a.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/a.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/b.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf914-div2/b.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/b.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/c.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf914-div2/c.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/c.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/d.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf914-div2/d.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/d.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2
+
+build CMakeFiles/codeforces.dir/cses/1755.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/1755.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/1755.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
+
+build CMakeFiles/codeforces.dir/cses/2205.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/cses/2205.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/cses/2205.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/cses
+
+build CMakeFiles/codeforces.dir/book/longest_increasing_subsequence.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/book/longest_increasing_subsequence.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/book/longest_increasing_subsequence.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/book
+
+build CMakeFiles/codeforces.dir/noi/1/2023/best_subarray.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2023/best_subarray.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2023/best_subarray.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2023
+
+build CMakeFiles/codeforces.dir/noi/1/2023/bitstack.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2023/bitstack.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2023/bitstack.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2023
+
+build CMakeFiles/codeforces.dir/noi/1/2009/color.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2009/color.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2009/color.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2009
+
+build CMakeFiles/codeforces.dir/noi/1/2009/roads.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/noi/1/2009/roads.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/noi/1/2009/roads.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/noi/1/2009
+
+build CMakeFiles/codeforces.dir/notebook/sums_to_n.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/notebook/sums_to_n.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/notebook/sums_to_n.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/notebook
+
+build CMakeFiles/codeforces.dir/notebook/gcd.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/notebook/gcd.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/notebook/gcd.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/notebook
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2/A_Satisfying_Constraints.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf919-div2/A_Satisfying_Constraints.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2/A_Satisfying_Constraints.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2/B_Summation_Game.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf919-div2/B_Summation_Game.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2/B_Summation_Game.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/A_Square.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf920-div3/A_Square.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/A_Square.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/B_Arranging_Cats.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf920-div3/B_Arranging_Cats.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/B_Arranging_Cats.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/C_Sending_Messages.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf920-div3/C_Sending_Messages.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/C_Sending_Messages.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/D_Very_Different_Array.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf920-div3/D_Very_Different_Array.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/D_Very_Different_Array.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3
+
+build CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/E_Eat_the_Chip.cpp.o: CXX_COMPILER__codeforces_unscanned_Debug /var/home/mihail/CLionProjects/cp/codeforces/contests/cf920-div3/E_Eat_the_Chip.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/E_Eat_the_Chip.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target cf
+# Link build statements for EXECUTABLE target codeforces
 
 
 #############################################
-# Link the executable cf
+# Link the executable codeforces
 
-build cf: CXX_EXECUTABLE_LINKER__cf_Debug CMakeFiles/cf.dir/cf/contests/cf907-div2/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf907-div2/b/main.cpp.o CMakeFiles/cf.dir/cf/archive/1879b/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/oil.cpp.o CMakeFiles/cf.dir/noi/1/2022/sequence.cpp.o CMakeFiles/cf.dir/noi/1/2021/tiling.cpp.o CMakeFiles/cf.dir/template.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/f/main.cpp.o CMakeFiles/cf.dir/cf/contests/ecf157/g/main.cpp.o CMakeFiles/cf.dir/noi/1/2022/threediv.cpp.o CMakeFiles/cf.dir/noi/1/2021/perm.cpp.o CMakeFiles/cf.dir/noi/1/2020/airline.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf908-div2/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/a/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/b/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/c/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/d/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/e/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/f/main.cpp.o CMakeFiles/cf.dir/cf/contests/cf909-div3/g/main.cpp.o CMakeFiles/cf.dir/book/max_subarray_sum.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/a.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/b.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/c.cpp.o CMakeFiles/cf.dir/cf/contests/ecf159/d.cpp.o CMakeFiles/cf.dir/cses/1068.cpp.o CMakeFiles/cf.dir/cses/1083.cpp.o CMakeFiles/cf.dir/cses/1069.cpp.o CMakeFiles/cf.dir/cses/1094.cpp.o CMakeFiles/cf.dir/cses/1070.cpp.o CMakeFiles/cf.dir/cses/1071.cpp.o CMakeFiles/cf.dir/cses/1072.cpp.o
+build codeforces: CXX_EXECUTABLE_LINKER__codeforces_Debug CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/a/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf907-div2/b/main.cpp.o CMakeFiles/codeforces.dir/codeforces/archive/1879b/main.cpp.o CMakeFiles/codeforces.dir/noi/1/2022/oil.cpp.o CMakeFiles/codeforces.dir/noi/1/2022/sequence.cpp.o CMakeFiles/codeforces.dir/noi/1/2021/tiling.cpp.o CMakeFiles/codeforces.dir/template.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf157/a/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf157/b/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf157/c/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf157/d/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf157/e/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf157/f/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf157/g/main.cpp.o CMakeFiles/codeforces.dir/noi/1/2022/threediv.cpp.o CMakeFiles/codeforces.dir/noi/1/2021/perm.cpp.o CMakeFiles/codeforces.dir/noi/1/2020/airline.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/a/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/b/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/c/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/d/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf908-div2/e/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/a/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/b/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/c/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/d/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/e/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/f/main.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf909-div3/g/main.cpp.o CMakeFiles/codeforces.dir/book/max_subarray_sum.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf159/a.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf159/b.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf159/c.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/ecf159/d.cpp.o CMakeFiles/codeforces.dir/cses/1068.cpp.o CMakeFiles/codeforces.dir/cses/1083.cpp.o CMakeFiles/codeforces.dir/cses/1069.cpp.o CMakeFiles/codeforces.dir/cses/1094.cpp.o CMakeFiles/codeforces.dir/cses/1070.cpp.o CMakeFiles/codeforces.dir/cses/1071.cpp.o CMakeFiles/codeforces.dir/cses/1072.cpp.o CMakeFiles/codeforces.dir/cses/1754.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/a.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/b.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/c.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/d.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf913-div3/g.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/a.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/b.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/c.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf914-div2/d.cpp.o CMakeFiles/codeforces.dir/cses/1755.cpp.o CMakeFiles/codeforces.dir/cses/2205.cpp.o CMakeFiles/codeforces.dir/book/longest_increasing_subsequence.cpp.o CMakeFiles/codeforces.dir/noi/1/2023/best_subarray.cpp.o CMakeFiles/codeforces.dir/noi/1/2023/bitstack.cpp.o CMakeFiles/codeforces.dir/noi/1/2009/color.cpp.o CMakeFiles/codeforces.dir/noi/1/2009/roads.cpp.o CMakeFiles/codeforces.dir/notebook/sums_to_n.cpp.o CMakeFiles/codeforces.dir/notebook/gcd.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2/A_Satisfying_Constraints.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf919-div2/B_Summation_Game.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/A_Square.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/B_Arranging_Cats.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/C_Sending_Messages.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/D_Very_Different_Array.cpp.o CMakeFiles/codeforces.dir/codeforces/contests/cf920-div3/E_Eat_the_Chip.cpp.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/cf.dir
+  OBJECT_DIR = CMakeFiles/codeforces.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = cf
-  TARGET_PDB = cf.dbg
+  TARGET_FILE = codeforces
+  TARGET_PDB = codeforces.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -327,7 +483,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/var/home/mihail/CLionProjects/cp -B/var/home/mihail/CLionProjects/cp/cmake-build-debug
+  COMMAND = cd /var/home/mihail/CLionProjects/cp/cmake-build-debug && /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/var/home/mihail/CLionProjects/cp -B/var/home/mihail/CLionProjects/cp/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -345,7 +501,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /var/home/mihail/CLionProjects/cp/cmake-build-debug
 
-build all: phony cf
+build all: phony codeforces
 
 # =============================================================================
 # Built-in targets
@@ -354,14 +510,14 @@ build all: phony cf
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/69f6ce9329a28_CLion-233.11799.171/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake: phony
+build /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake /var/home/mihail/.cache/JetBrains/RemoteDev/dist/5e0b8d8cdf7c1_CLion-2023.3.1/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /var/home/mihail/CLionProjects/cp/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeCXXCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake: phony
 
 
 #############################################

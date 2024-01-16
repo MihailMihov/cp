@@ -4,7 +4,10 @@ void solve() {
     int a, b;
     std::cin >> a >> b;
 
-    
+    if(a > b) std::swap(a, b);
+    // b >= a
+
+
 }
 
 int main() {
