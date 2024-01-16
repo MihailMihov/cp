@@ -1,0 +1,12 @@
+schemaVersion: 2.2.0
+attributes:
+  space:
+    instanceType: regular
+    editor:
+      type: CLion
+components:
+  - name: cp-image-build
+    image:
+      imageName: cp-image:latest
+      dockerfile:
+        uri: .devcontainer/Containerfile
