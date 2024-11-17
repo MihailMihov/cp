@@ -3,6 +3,8 @@
 !*.*
 !*/
 
+venv/
+
 a.out
 in*
 out*
